@@ -1,9 +1,7 @@
-Here is the full plain text for your `README.md` file. You can copy this block directly and paste it into a new file named `README.md` in your project folder.
 
-```markdown
-# 🎙️ NovaTech AURA Pro (Google Gemini Edition)
+🎙️ NovaTech AURA 
 
-**NovaTech AURA** (Audio Understanding & Reasoning Agent) is a cloud-native audio forensics dashboard powered by **Google Technologies**. It replaces traditional, heavy local machine learning models with the speed and intelligence of **Google Gemini 1.5 Flash** and **Google Text-to-Speech**.
+**NovaTech AURA** (Audio Understanding & Reasoning Agent) is a cloud-native audio forensics dashboard.. It replaces traditional, heavy local machine learning models with the speed and intelligence. **Functional TRL-4 Prototype**.
 
 This system transforms raw audio files into actionable intelligence by generating transcripts, detecting granular emotions, identifying key sound events, and providing vocal executive summaries in seconds.
 
@@ -118,8 +116,9 @@ NovaTech_AURA/
 
 ---
 
-**Built with ❤️ using Google Gemini & Streamlit.**
+**Built with ❤️**
 
 ```
+
 
 ```
